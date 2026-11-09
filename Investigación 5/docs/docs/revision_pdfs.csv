@@ -1,0 +1,25 @@
+﻿Archivo,Páginas con tablas de vegetación,¿DAP?,¿Altura?,¿Área de parcela?,¿Coordenadas?,Datum,Fecha de campo,Método,¿Tabla copiable o imagen?,Observaciones
+"Evaluación ambiental de seguimiento de la calidad del aire en el corredor vial Apurímac – Cusco, distrito Espinar, provincia Espinar, departamento Cusco, de enero a setiembre 2022",No,No,No,No,No,WGS_1984_ 18 S,30/11/2022,No,No,"No cuenta con 
+tablas de especies, no se puede extraer la información"
+"Segundo monitoreo ambiental participativo de  la calidad del agua y aire en la provincia de Espinar, región Cusco",No,No,No,No,No,WGS_1984_ 18 S,6/05/2014,No,No,"No cuenta con 
+tablas de especies, no se puede extraer la información"
+"MEIA ANTAPACCAY EXPANSIÓN TINTAYA -
+ INTEGRACIÓN COROCCOHUAYCO",Si,No,No,No,No,WGS_1984_ 18 S,2018,No,No,"Cuenta con el total 
+de especies, mas no cuenta con descripcion de cada una"
+"Plan Maestro del Parque Nacional del Manu
+2024 - 2029",No,No,No,No,No,WGS_1984_ 18 S,2024,No,No,"Cuenta con data de
+ tipos de especies, no en tablas, en unidades de cobertura vegetal"
+"Plan de Acción para la promoción de
+ investigaciones en el Sistema Nacional de Áreas Naturales Protegidas por el Estado (SINANPE), periodo 2020-2022",No,No,No,No,No,WGS_1984_ 18 S,2020,No,No,Brinda data acerca de que existe 70 parcelas de vegeatción dentro de las medidas por ANP
+"Inventario Nacional de Bofedales del Perú 
+2023",Si,No,Si,Si,Si,WGS_1984_ 18 S,2023,"Imágenes satelitales, contraste en campo",Si,"No cuentan con 
+data de DAP"
+"SERVICIOS ECOSISTÉMICOS DE REGULACIÓN HÍDRICA EN LA CUENCA PIURAY Y PROPUESTAS PARA SU RECUPERACIÓN, Un análisis de la degradación, sus efectos sobre la regulación hídrica y experiencias de rehabilitación y conservación",Si,No,Si,Si,Si,WGS_1984_ 18 S,2024,Parcelas,Si (tablas),"No cuentan con 
+data de DAP "
+"inventario nacional
+forestal y de
+fauna silvestre",Si,Si,Si,Si,No,WGS_1984_ 18 S,2020,Parcelas,No,"No existe tablas de 
+especies con sus coordenadas exactas y cantidad"
+"Captura y almacenamiento de carbono
+ como servicio ambiental en el bosque de q’euña “La Paz” ",Si,Si,Si,Si,No,WGS_1984_ 18 S,2018,Parcelas,No,"No existe tablas de 
+especies con sus coordenadas exactas y cantidad"

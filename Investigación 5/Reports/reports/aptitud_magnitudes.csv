@@ -1,0 +1,8 @@
+magnitud,estimable_con_datos_publicados,motivo,dato_necesario
+Extensión del ecosistema (ha),SI (departamental),Bofedales T5.1: Cusco 100 393.01 ha,Resolución provincial/distrital o geometría (shapefile)
+Reserva de carbono del suelo (Mg C/ha),NO,"No hay profundidad, densidad aparente ni %C","Perfiles de suelo/turba con esas tres variables, por parcela"
+Reserva de carbono total (Mg C),NO,Requiere reserva por ha × superficie,Lo anterior + superficie por tipo de bofedal
+Cambio de existencias (Mg C/año),NO,No hay remediciones publicadas,≥2 mediciones del mismo sitio con método comparable
+Secuestro neto / tasa de captura,NO,Requiere cambio de existencias o flujos,"Series temporales o cámaras de flujo, línea base"
+Emisiones (inventario GEI),NO,No hay datos de actividad ni factores de emisión,Datos de actividad de degradación/drenaje y factores
+"Elegibilidad en estándares (adicionalidad, permanencia)",NO EVALUABLE,No se emiten créditos; fuera del alcance,Línea base y proyecto definido

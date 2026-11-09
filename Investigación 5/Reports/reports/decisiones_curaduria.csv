@@ -1,0 +1,8 @@
+script,regla,id_afectado,accion,justificacion
+03,C1_pct_nacional,Tabla 5.1,"verificado, sin cambios",% nacional recalculado coincide con el impreso en las 19 filas (tolerancia 0.02 pp). Suma impresa 99.99 por redondeo.
+03,C2_total_inconsistente,T4.8-Cusco,adoptar total recalculado (original conservado),"Total impreso 52 ≠ 18+36=54. Las columnas bofedal (910) y no bofedal (627) suman el total general impreso (1537), por lo que el error está en el total de la fila y no en los componentes. Confirmar con INAIGEM si es posible."
+03,C2_total_inconsistente,T4.8-Apurímac,adoptar total recalculado (original conservado),"Total impreso 223 ≠ 119+102=221. Las columnas bofedal (910) y no bofedal (627) suman el total general impreso (1537), por lo que el error está en el total de la fila y no en los componentes. Confirmar con INAIGEM si es posible."
+03,C2_total_inconsistente,T4.8-Arequipa,adoptar total recalculado (original conservado),"Total impreso 550 ≠ 125+98=223. Las columnas bofedal (910) y no bofedal (627) suman el total general impreso (1537), por lo que el error está en el total de la fila y no en los componentes. Confirmar con INAIGEM si es posible."
+03,C3_categorias_solapadas,Cusco 5.3/5.6/5.7,marcar flag_no_sumar,"ANP, comunidades y concesiones se solapan espacialmente; sumarlas generaría doble conteo."
+03,C4_redondeo_pct,Piuray C7,sin cambios; bandera,La fuente redondea porcentajes a enteros; las diferencias con el recálculo son ≤ 0.5 pp.
+03,C5_taxonomia,Piuray C8 (23 spp.),marcar flag_tax_pendiente,No se asigna nombre aceptado sin consultar World Flora Online / Plants of the World Online; ver data/external/equivalencias_taxonomicas.csv.

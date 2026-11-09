@@ -1,0 +1,10 @@
+variable,Bofedales_2023,Piuray_2024,observacion
+Superficie del ecosistema (ha),SI,NO,"Bofedales: Tabla 5.1 (19 dptos.). Piuray: solo coberturas, sin clase 'bofedal'"
+Coordenadas por parcela,NO,NO,Ninguna tabla trae coordenadas por registro
+Datum declarado,PARCIAL,NO,Bofedales: WGS84 geográfico solo en los mapas. Piuray: no declarado
+Fecha de campo por parcela,NO,NO,Solo años de referencia (inventario 2023; cobertura 2021; parcelas 2021 y 2023)
+DAP y altura (árboles),NO APLICA,NO APLICA,Ecosistema herbáceo/turboso: no aplica biomasa arbórea
+Profundidad de turba,NO,NO PUBLICADA,Bofedales: la menciona como tema; Piuray: no publica valores
+Densidad aparente,NO,NO PUBLICADA,Piuray lista la variable (Cuadros 16 y 19) sin valores
+Carbono orgánico (%),NO,NO PUBLICADA,"Piuray lista materia orgánica (%) como variable monitoreada, sin valores"
+Remedición del mismo sitio,NO,NO PUBLICADA,"Piuray: monitoreo semestral/4 años descrito, datos no publicados"

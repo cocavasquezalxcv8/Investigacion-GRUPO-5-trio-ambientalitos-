@@ -1,0 +1,22 @@
+tabla,prueba,descripcion,n_casos,detalle,resultado
+Bof. T5.1,P1,Departamentos duplicados,0,,OK
+Bof. T5.1,P2,Valores faltantes,0,,OK
+Bof. T5.1,P3,Superficies no positivas,0,,OK
+Bof. T5.1,P4,Ranking no decreciente en superficie,0,,OK
+Bof. T5.1,P5,"% nacional recalculado difiere > 0.02 pp (total 910,398.16 ha)",0,,OK
+Bof. T5.1,P6,Suma de % nacional distinta de 100 (±0.05),0,suma=99.99,OK
+Bof. T4.8,P1,Total por departamento ≠ bofedal + no bofedal,3,Cusco(52 vs 54);Apurímac(223 vs 221);Arequipa(550 vs 223),ALERTA
+Bof. T4.8,P2,Suma de columnas ≠ total general impreso (1537),0,suma b+nb=1537; suma totales impresos=1864,OK
+Bof. Cusco,P1,Categoría con superficie mayor al total de Cusco,0,,OK
+Bof. Cusco,P2,% departamental de concesiones recalculado difiere > 0.1,0,recalculado=29.86,OK
+Piuray C7,P1,Suma de % impreso ≠ 100,0,suma=100,OK
+Piuray C7,P2,% recalculado difiere > 0.5 del impreso,0,área total=46.40 km2,OK
+Piuray C7,P3,Vegetación natural (pastizal+matorral) ≥ 50 % (el texto del informe afirma < 50 %),0,recalculado=43.5 %,OK
+Piuray C8,P1,Pares formación-especie duplicados,0,,OK
+Piuray C8,P2,Nombres que no inician con binomio,0,,OK
+Piuray C8,P3,Especies repetidas en varias formaciones (informativo),12,únicas=23 de 40 filas,ALERTA
+Piuray C8,P4,Nombres aceptados verificados en WFO/POWO,23,pendiente: verificación manual con fecha de consulta,ALERTA
+Bof. T5.1,P-VAR,Variables mínimas para carbono ausentes (de 12),12,"dap_cm,altura_m,area_parcela,lat,lon,este,norte,datum,fecha_campo,profundidad_turba_cm,densidad_aparente,carbono_organico_pct",ALERTA
+Bof. T4.8,P-VAR,Variables mínimas para carbono ausentes (de 12),12,"dap_cm,altura_m,area_parcela,lat,lon,este,norte,datum,fecha_campo,profundidad_turba_cm,densidad_aparente,carbono_organico_pct",ALERTA
+Piuray C7,P-VAR,Variables mínimas para carbono ausentes (de 12),12,"dap_cm,altura_m,area_parcela,lat,lon,este,norte,datum,fecha_campo,profundidad_turba_cm,densidad_aparente,carbono_organico_pct",ALERTA
+Piuray C8,P-VAR,Variables mínimas para carbono ausentes (de 12),12,"dap_cm,altura_m,area_parcela,lat,lon,este,norte,datum,fecha_campo,profundidad_turba_cm,densidad_aparente,carbono_organico_pct",ALERTA

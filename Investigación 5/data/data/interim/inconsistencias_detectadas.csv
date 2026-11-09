@@ -1,0 +1,4 @@
+fuente,tabla,pagina_pdf,registro,problema,accion
+Inventario Nacional de Bofedales del Perú 2023 (INAIGEM),Tabla 4.8,93,Cusco,total impreso 52 ≠ bofedal+no_bofedal = 54,"No corregido; se conserva el valor impreso y se marca (error de la fuente, sin evidencia para decidir cuál cifra es la correcta)"
+Inventario Nacional de Bofedales del Perú 2023 (INAIGEM),Tabla 4.8,93,Apurímac,total impreso 223 ≠ bofedal+no_bofedal = 221,"No corregido; se conserva el valor impreso y se marca (error de la fuente, sin evidencia para decidir cuál cifra es la correcta)"
+Inventario Nacional de Bofedales del Perú 2023 (INAIGEM),Tabla 4.8,93,Arequipa,total impreso 550 ≠ bofedal+no_bofedal = 223,"No corregido; se conserva el valor impreso y se marca (error de la fuente, sin evidencia para decidir cuál cifra es la correcta)"
